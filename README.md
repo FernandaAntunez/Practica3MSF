@@ -1,10 +1,10 @@
 \[!\[Open in MATLAB Online]
 
-# Práctica: Sistema musculoesquelético
+# Práctica 3: Sistema musculoesquelético
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Maria Fernanda Antúnez Rubio \[22211745]; l22211745@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
