@@ -10,13 +10,13 @@ authors:
     family-names: Antunez
     email: l22211745@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/FernandaAntunez/Practica4MSF'
+repository-code: 'https://github.com/FernandaAntunez/Practica3MSF'
 keywords:
   - Circuito RLC
   - Controlador PID
-  - Sistema Cardiovascular
+  - Sistema Musculoesquelético
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-17'
+date-released: '2025-10-30'
